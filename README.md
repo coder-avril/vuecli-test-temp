@@ -1,4 +1,4 @@
-# hy-vue-temp
+# vuecli-test-temp
 
 ## Project setup
 ```
